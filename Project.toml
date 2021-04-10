@@ -1,0 +1,11 @@
+name = "LibBSON"
+uuid = "a2a4060c-b823-4d0f-a5f8-8a424b2eabfe"
+version = "0.1.0"
+
+[deps]
+
+[compat]
+
+[extras]
+
+[targets]
